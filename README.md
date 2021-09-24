@@ -17,5 +17,5 @@
 <a href="https://twitter.com/niellsamosir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="niellsamosir" height="30" width="40" /></a>
 <a href="https://fb.com/danielneubie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="danielneubie" height="30" width="40" /></a>
 <a href="https://instagram.com/epicaricacy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="epicaricacy" height="30" width="40" /></a>
-<a href="https://wa.me/6285161602919" target="blank"><img align="center" src="https://telegra.ph/file/20041d0b4eee0e266f9c6.png" alt="epicaricacy" height="30" width="40" /></a>
+<a href="https://wa.me/6285161602919" target="blank"><img align="center" src="https://telegra.ph/file/20041d0b4eee0e266f9c6.png" alt="Maceng Whatsapp" height="30" width="40" /></a>
 </p>

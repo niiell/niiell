@@ -8,8 +8,8 @@
 <h3 align="left">:page_with_curl: I'm currently learning:</h3>
 <p align="center"> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dawnlinch&theme=default" alt="dawnlinch" /></p>
-<p><img align="center" src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=dawnlinch" alt="dawnlinch" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MacengBOT&theme=default" alt="MacengBOT" /></p>
+<p><img align="center" src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=MacengBOT" alt="MacengBOT" /></p>
 </details>
 
 <h3 align="right">Connect with me : :yum:</h3>

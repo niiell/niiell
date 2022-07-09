@@ -1,7 +1,7 @@
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=dawnlinch&label=Profile%20views&color=443c42&style=plastic" alt="dawnlinch" /> </p>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dawnlinch" alt="dawnlinch" /></a> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=MacengBOT&label=Profile%20views&color=443c42&style=plastic" alt="MacengBOT" /> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MacengBOT" alt="MacengBOT" /></a> </p>
 
-# I'm [Maceng](https://github.com/dawnlinch) ! :sunglasses:
+# I'm [Maceng](https://github.com/MacengBOT) ! :sunglasses:
 ### I'd like to do project that has relation to anime. :ghost:
 
 
@@ -16,7 +16,7 @@
 <p align="right">
 <a href="https://twitter.com/niellsamosir" target="_blank"><img align="center" src="https://simpleicons.org/icons/twitter.svg" alt="Maceng Twitter" height="30" width="40" /></a>
 <a href="https://fb.com/danielneubie" target="_blank"><img align="center" src="https://simpleicons.org/icons/facebook.svg" alt="Maceng Facebook" height="30" width="40" /></a>
-<a href="https://instagram.com/epicaricacy" target="_blank"><img align="center" src="https://simpleicons.org/icons/instagram.svg" alt="Maceng Instagram" height="30" width="40" /></a>
+<a href="https://instagram.com/maceeeeng" target="_blank"><img align="center" src="https://simpleicons.org/icons/instagram.svg" alt="Maceng Instagram" height="30" width="40" /></a>
 <a href="https://wa.me/6285161602919" target="_blank"><img align="center" src="https://simpleicons.org/icons/whatsapp.svg" alt="Maceng Whatsapp" height="30" width="40" /></a>
 <a href="https://t.me/ceng29" target="_blank"><img align="center" src="https://simpleicons.org/icons/telegram.svg" alt="Maceng Telegram" height="30" width="40" /></a>
 </p>

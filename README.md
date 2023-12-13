@@ -20,3 +20,7 @@
 <a href="https://wa.me/6285161602919" target="_blank"><img align="center" src="https://simpleicons.org/icons/whatsapp.svg" alt="Maceng Whatsapp" height="30" width="40" /></a>
 <a href="https://t.me/ceng29" target="_blank"><img align="center" src="https://simpleicons.org/icons/telegram.svg" alt="Maceng Telegram" height="30" width="40" /></a>
 </p>
+
+&nbsp;<div align="center">
+  [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/3122edx3ynrncxczw5bi5t2hdpv4)
+</div>
